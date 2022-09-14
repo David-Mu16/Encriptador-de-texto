@@ -1,0 +1,41 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+  height: 100vh;
+}
+
+img{
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+    
+/* .contenedor-principal{
+    padding: 45px;
+    width: 300px;
+    position: absolute;
+    top: 200%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    
+} */
+
+.tarjeta1{
+    padding: 100px;
+  width: 450px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px);
+    background-color: rgba(164, 189, 209, 0.466);
+
+}
+
+
+
+
